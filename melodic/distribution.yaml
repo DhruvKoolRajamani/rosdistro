@@ -2715,20 +2715,12 @@ repositories:
       version: devel
     status: developed
   humanoid_msgs:
-    doc:
-      type: git
-      url: https://github.com/DhruvKoolRajamani/humanoid_msgs.git
-      version: master
     source:
       type: git
       url: https://github.com/DhruvKoolRajamani/humanoid_msgs.git
-      version: devel
+      version: master
     status: maintained
   humanoid_navigation:
-    doc:
-      type: git
-      url: https://github.com/DhruvKoolRajamani/humanoid_navigation.git
-      version: master
     source:
       type: git
       url: https://github.com/DhruvKoolRajamani/humanoid_navigation.git
